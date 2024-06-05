@@ -20,4 +20,8 @@ samples, guidance on mobile development, and a full API reference.
 Esta aplicacion tiene 3 menus el primero es para escanear puertos abiertos en una pagina web, el segundo es para escanear puertos en una red local y ver que maquinas hay conectadas y el ultimo es el uso de waybackmachine para extraer enlaces de un sitio web y buscar posibles vulnerabilidades
 
 
-<video controls src="Scanner.mp4" title="Title"></video>
+
+<video width="320" height="240" controls>
+  <source src="uScanner.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
