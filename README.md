@@ -15,3 +15,9 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # ScannerApp
+
+
+Esta aplicacion tiene 3 menus el primero es para escanear puertos abiertos en una pagina web, el segundo es para escanear puertos en una red local y ver que maquinas hay conectadas y el ultimo es el uso de waybackmachine para extraer enlaces de un sitio web y buscar posibles vulnerabilidades
+
+
+<video controls src="Scanner.mp4" title="Title"></video>
